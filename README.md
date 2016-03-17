@@ -1,3 +1,3 @@
-# Caousel
+# Carousel
 In Development
 
